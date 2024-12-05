@@ -6,4 +6,7 @@ I'm Jack. Your friendly neighborhood Jack. Still chasing the dream.  This showca
 text here
 
 ### Screenshots
+[!NOTE]
+This project has music which isn't here for you to hear.
+
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/actionjack117/actionjack117.gitub.io/blob/main/Final%20Project%2001.png)
