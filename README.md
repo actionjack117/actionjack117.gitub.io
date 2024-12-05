@@ -18,3 +18,33 @@ The three things I am most proud of in this project are:
 
 
 ![Screenshot of final project with topic choices](https://github.com/actionjack117/actionjack117.gitub.io/blob/main/Final%20Project%2002.png)
+
+## Adventure Game
+
+### Overview
+
+### Screenshots
+
+## Adopt-A-Fish
+
+### Overview
+
+### Screenshots
+
+## I/O and Game Map (Array)
+
+### Overview
+
+### Screenshots
+
+## Substitution Cipher
+
+### Overview
+
+### Screenshots
+
+## Explorable Areas WPF/GUI
+
+### Overview
+
+### Screenshots
