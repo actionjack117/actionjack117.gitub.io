@@ -39,8 +39,9 @@ This was a fun game I made during my programming I class. I made the backdrop my
 ## I/O and Game Map (Array)
 
 ### Overview
-
+Unfortunately, my code for this app isn't fully finished. This app allows player movement. The player is able to find new items depnding on their location.
 ### Screenshots
+![6](https://github.com/user-attachments/assets/84d99ab8-f211-42d7-9f78-dbbe32f1e73a)
 
 ## Substitution Cipher
 
