@@ -3,7 +3,7 @@ I'm just your friendly neighborhood Jack. Still chasing the dream.  This showcas
 ## Final Project
 
 ### Overview
-My game is a parody of Jeopardy. I had two fun categories, one serious, and one that is a curveball for everyone that isn't me. 
+My game is a parody of Jeopardy. I had two fun categories, one serious, and one that is a curveball for anyone that isn't me. 
 ### Screenshots
 > [!NOTE]
 > This project has music which isn't here for you to hear.
