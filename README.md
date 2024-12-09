@@ -23,8 +23,7 @@ The three things I am most proud of in this project are:
 ### Overview
 
 ### Screenshots
-![Screenshot of final project intial screen](https://github.com/actionjack117/actionjack117.gitub.io/blob/main/Final%20Project%2001.png)
-
+![2](https://github.com/user-attachments/assets/f4723fed-4d28-416e-ad2b-ec34a4ff9412)
 ## Adopt-A-Fish
 
 ### Overview
