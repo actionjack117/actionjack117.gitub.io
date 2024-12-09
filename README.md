@@ -21,9 +21,11 @@ The three things I am most proud of in this project are:
 ## Adventure Game
 
 ### Overview
-
+For my midterm, I made a small adventure game in which you play as me at school. In order to win you must collect all three iteams which will turn me into my final form........ Christopher Loyd
 ### Screenshots
 ![2](https://github.com/user-attachments/assets/f4723fed-4d28-416e-ad2b-ec34a4ff9412)
+
+![1](https://github.com/user-attachments/assets/0fa4fced-56a8-4089-a3c2-a090f24ed412)
 ## Adopt-A-Fish
 
 ### Overview
