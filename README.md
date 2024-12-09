@@ -52,5 +52,6 @@ This is just a basic substitution cipher that will reorder whatever message you 
 ## Explorable Areas WPF/GUI
 
 ### Overview
-
+Again, this app isn't fully finished. Some of the basic ideas of being able to move from one page to another are complete though. 
 ### Screenshots
+![7](https://github.com/user-attachments/assets/5f610a79-5811-4d59-b02f-cf4e4a723f01)
