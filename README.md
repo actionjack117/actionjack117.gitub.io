@@ -45,9 +45,9 @@ This was a fun game I made during my programming I class. I made the backdrop my
 ## Substitution Cipher
 
 ### Overview
-
+This is just a basic substitution cipher that will reorder whatever message you give it.
 ### Screenshots
-
+![5](https://github.com/user-attachments/assets/593042c2-e464-49db-ac96-4e0edb4552f7)
 ## Explorable Areas WPF/GUI
 
 ### Overview
