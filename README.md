@@ -30,7 +30,7 @@ For my midterm, I made a small adventure game in which you play as me at school.
 ## Adopt-A-Fish
 
 ### Overview
-This was a fun game made during my programmin I class. I made the backdrop my favroite color along with giving the player the ability to name their fish. 
+This was a fun game I made during my programming I class. I made the backdrop my favroite color along with giving the player the ability to name their fish. 
 ### Screenshots
 ![3](https://github.com/user-attachments/assets/16a74ec9-df65-4041-9e10-7389440aa18c)
 
