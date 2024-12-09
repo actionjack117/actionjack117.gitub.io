@@ -26,11 +26,15 @@ For my midterm, I made a small adventure game in which you play as me at school.
 ![2](https://github.com/user-attachments/assets/f4723fed-4d28-416e-ad2b-ec34a4ff9412)
 
 ![1](https://github.com/user-attachments/assets/0fa4fced-56a8-4089-a3c2-a090f24ed412)
+
 ## Adopt-A-Fish
 
 ### Overview
-
+This was a fun game made during my programmin I class. I made the backdrop my favroite color along with giving the player the ability to name their fish. 
 ### Screenshots
+![3](https://github.com/user-attachments/assets/16a74ec9-df65-4041-9e10-7389440aa18c)
+
+![4](https://github.com/user-attachments/assets/4638ec50-b826-484d-90ab-fe5cb1242eb1)
 
 ## I/O and Game Map (Array)
 
