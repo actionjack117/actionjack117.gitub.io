@@ -80,14 +80,14 @@ On this demo the objective was to create both an interface and a delegate. Inter
 ## Event Handler
 
 ### Overview
-The idea behind this small demo was to learn how to declare an event and eventually be able to put the event keywrod in front of a delegate member. I ran into some issues when creating this so as of right now it is not fully functional. 
+The idea behind this small demo was to learn how to declare an event and eventually be able to put the event keyword in front of a delegate member. I ran into some issues when creating this so as of right now it is not fully functional. 
 ### Screenshots
 ![Capture4](https://github.com/user-attachments/assets/266f990d-c4e9-4d2b-a953-11993e3c93c9)
 
 ## My Journal
 
 ### Overview
-With the help of Mike Hadley, I was able to create a virtual journal. This app involves saving input from the player onto an external text file that is saved and can be read back to the player whenever its opened. Since it was made by me you will be greeted by the one and only Cheshire Cat. 
+With the help of Mike Hadley, I was able to create a virtual journal. This app involves saving input from the player directly onto an external text file. This gets saved and can be read back to the player whenever its opened. Since it was made by me you will be greeted by the one and only Cheshire Cat. 
 ### Screenshots
 ![Capture5](https://github.com/user-attachments/assets/b52e5851-a91d-4705-bea1-5deb7db522a4)
 
