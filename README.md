@@ -55,3 +55,41 @@ This is just a basic substitution cipher that will reorder whatever message you 
 Again, this app isn't fully finished. Some of the basic ideas of being able to move from one page to another are complete though. 
 ### Screenshots
 ![7](https://github.com/user-attachments/assets/5f610a79-5811-4d59-b02f-cf4e4a723f01)
+
+## Multi-Game!
+
+### Overview
+For this project the goal was to include the key concepts of polymorphism, inheritance, and encapsulation by creating a game that was scalable. Each card game shares many similarities with each other. So you will notice that each game becomes a little more complicated.
+### Screenshots
+![Capture](https://github.com/user-attachments/assets/ae38ff98-f515-41bb-9087-f80390eac0f1)
+
+## C# and GUI
+
+### Overview
+I was always told to write what you know. So naturally I wanted to show off my hometown for my final project. In it you will see the house I grew up in, my favorite party store/convenience store, and even a picture of me with hair. 
+### Screenshots
+![Capture2](https://github.com/user-attachments/assets/c44390c8-8d99-495d-8faa-d2b9cb410521)
+
+## World of Imagination
+
+### Overview
+On this demo the objective was to create both an interface and a delegate. Interfaces allow us to use multiple uses of inheritance. With that we can create different instances of creatures that are unique. 
+### Screenshots
+![Capture3](https://github.com/user-attachments/assets/7cd6e86e-e0b3-45f9-833d-29129d01a6fe)
+
+## Event Handler
+
+### Overview
+The idea behind this small demo was to learn how to declare an event and eventually be able to put the event keywrod in front of a delegate member. I ran into some issues when creating this so as of right now it is not fully functional. 
+### Screenshots
+![Capture4](https://github.com/user-attachments/assets/266f990d-c4e9-4d2b-a953-11993e3c93c9)
+
+## My Journal
+
+### Overview
+With the help of Mike Hadley, I was able to create a virtual journal. This app involves saving input from the player onto an external text file that is saved and can be read back to the player whenever its opened. Since it was made by me you will be greeted by the one and only Cheshire Cat. 
+### Screenshots
+![Capture5](https://github.com/user-attachments/assets/b52e5851-a91d-4705-bea1-5deb7db522a4)
+
+
+
