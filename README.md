@@ -73,7 +73,7 @@ I was always told to write what you know. So naturally I wanted to show off my h
 ## World of Imagination
 
 ### Overview
-On this demo the objective was to create both an interface and a delegate. Interfaces allow us to use multiple uses of inheritance. With that we can create different instances of creatures that are unique. 
+On this demo the objective was to create both an interface and a delegate. Interfaces allow us to have multiple cases of inheritance. With that we can create different instances of creatures that are unique. 
 ### Screenshots
 ![Capture3](https://github.com/user-attachments/assets/7cd6e86e-e0b3-45f9-833d-29129d01a6fe)
 
